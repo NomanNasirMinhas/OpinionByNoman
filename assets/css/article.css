@@ -3,8 +3,8 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
   position: relative;
-  background: #040404 url("../img/bg4.jpg") top right no-repeat;
-  background-size: cover;
+  background: #040404 url("../img/bg5.jpg") top left repeat;
+  background-size: auto;
 }
 
 
